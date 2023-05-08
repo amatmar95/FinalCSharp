@@ -14,7 +14,7 @@ Para ejecutar este repositorio:
 
   1- En primer lugar se deberá, mediante la consola de comandos, clonar el repositorio en el equipo local usando el comando y la ruta "https://github.com/amatmar95/FinalCSharp.git". 
   
-  2- En segundo lugar,se deberá acceder al repositorio con la consola de comandos y utilizar el comando "dotnet new console" para crear una nueva consola de ejecución.
+  2- En segundo lugar,se deberá acceder al repositorio con la consola de comandos mediante la ruta.
   
   3- Tras esto, abrimos el Visual Studio Code u otro entorno de desarrollo. 
   
