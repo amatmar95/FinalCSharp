@@ -1,0 +1,15 @@
+C:\CloudComputing\FinalCSharp\bin\Debug\net7.0\FinalCSharp.exe
+C:\CloudComputing\FinalCSharp\bin\Debug\net7.0\FinalCSharp.deps.json
+C:\CloudComputing\FinalCSharp\bin\Debug\net7.0\FinalCSharp.runtimeconfig.json
+C:\CloudComputing\FinalCSharp\bin\Debug\net7.0\FinalCSharp.dll
+C:\CloudComputing\FinalCSharp\bin\Debug\net7.0\FinalCSharp.pdb
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\FinalCSharp.csproj.AssemblyReference.cache
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\FinalCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\FinalCSharp.AssemblyInfoInputs.cache
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\FinalCSharp.AssemblyInfo.cs
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\FinalCSharp.csproj.CoreCompileInputs.cache
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\FinalCSharp.dll
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\refint\FinalCSharp.dll
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\FinalCSharp.pdb
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\FinalCSharp.genruntimeconfig.cache
+C:\CloudComputing\FinalCSharp\obj\Debug\net7.0\ref\FinalCSharp.dll
