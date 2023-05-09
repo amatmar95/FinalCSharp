@@ -10,8 +10,8 @@ class Ejercicio13{
         WriteLine("Introduzca la segunda palabra: ");
         string? palabra2 = ReadLine();
 
-        char[] letras1 = palabra1.ToLower().ToCharArray();
-        char[] letras2 = palabra2.ToLower().ToCharArray();
+        char[] letras1 = palabra1!.ToLower().ToCharArray();
+        char[] letras2 = palabra2!.ToLower().ToCharArray();
 
         Array.Sort(letras1);
         Array.Sort(letras2);

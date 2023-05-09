@@ -11,11 +11,11 @@ class Ejercicio5{
         while (seguir){
             Write("Introduzca un nombre: ");
             string? nombre = ReadLine();
-            nombres.Add(nombre);
+            nombres.Add(nombre!);
 
             Write("¿Quieres introducir otro nombre? (s/n): ");
             string? respuesta = ReadLine();
-            if (respuesta.ToLower() == "n")
+            if (respuesta!.ToLower() == "n")
             {
                 seguir = false;
                 break;
